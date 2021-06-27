@@ -1,0 +1,33 @@
+{
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.fontSize": 20,
+	"editor.formatOnSave": true,
+	"editor.linkedEditing": true,
+	"editor.tabSize": 2,
+	"editor.wordWrap": "on",
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"files.associations": {
+		"*.js": "javascriptreact"
+	},
+	"javascript.format.semicolons": "insert",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"liveSassCompile.settings.autoprefix": null,
+	"liveSassCompile.settings.excludeList": ["**/node_modules/**", ".vscode/**"],
+	"liveSassCompile.settings.formats": [
+		{ "format": "expanded", "extensionName": ".css", "savePath": null },
+		{ "format": "compressed", "extensionName": ".min.css", "savePath": null }
+	],
+	"liveSassCompile.settings.generateMap": true,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"liveServer.settings.donotVerifyTags": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.printWidth": 100,
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "none",
+	"prettier.useTabs": true,
+	"typescript.format.semicolons": "insert",
+	"workbench.colorTheme": "Community Material Theme Darker High Contrast",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.startupEditor": "newUntitledFile"
+}
