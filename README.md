@@ -35,7 +35,7 @@ You can always uninstall Material Theme and use your own if you wish.
 
 ## Settings
 
-To update your VS Code settings, open the command palette by hitting `F1`, or `Ctrl + Shift + P` if you are on Windows, or `Cmd + Shift + P`
+To update your VS Code settings, open the command palette by hitting `F1`, or `Ctrl + Shift + P` if you are on Windows, or `Cmd + Shift + P` if you are on Mac.
 
 Then select `Preferences: Open Settings (JSON)` from the dropdown menu.
 
