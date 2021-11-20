@@ -1,10 +1,10 @@
 # Visual Studio Code Config
 
-My personal VS Code config / setup.
+My personal VS Code configuration / setup.
 
 ## Extensions
 
-To install all of these extensions quickly, run the included bash script:
+To install all of the extensions quickly, run the included bash script:
 
 `$ ./vscode-extension-install.sh`
 
@@ -37,6 +37,6 @@ You can always uninstall Material Theme and use your own if you wish.
 
 To update your VS Code settings, open the command palette by hitting `F1`, or `Ctrl + Shift + P` if you are on Windows, or `Cmd + Shift + P` if you are on Mac.
 
-Then select `Preferences: Open Settings (JSON)` from the dropdown menu.
+Next, select `Preferences: Open Settings (JSON)` from the dropdown menu.
 
-Now simply copy + paste the code from the included `settings.json` file into the `settings.json` file you just opened
+Now simply copy & paste the code from the included `settings.json` file into the `settings.json` file you just opened.
